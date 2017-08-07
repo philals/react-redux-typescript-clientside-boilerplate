@@ -19,6 +19,8 @@ There is also `npm run build-watch`.
 
 Public assets will be in ./dist/public and the server will be in dist/server.js
 
+PR with improvments welcome.
+
 Credit:
 - https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
 - https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
