@@ -2,7 +2,7 @@
   "name": "react-redux-typescript-clientside-boilerplate",
   "version": "1.0.0",
   "scripts": {
-    "cp": "cp -r ./src/server/public/ ./dist/public/",
+    "cp": "cp -r ./src/server/public/ ./dist/",
     "build": "npm run build-client && npm run build-server && npm run cp",
     "build-client": "webpack --config=webpack.config.js",
     "build-client-watch": "webpack --watch --config=webpack.config.js",

@@ -15,6 +15,8 @@ npm run build
 npm run serve-watch
 ```
 
+There is also `npm run build-watch`.
+
 Public assets will be in ./dist/public and the server will be in dist/server.js
 
 Credit:
