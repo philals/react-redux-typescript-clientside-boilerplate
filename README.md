@@ -1,6 +1,6 @@
-# react-redux-typescript-clientside-boilerplate
+# react-redux-typescript-webpack-clientside-boilerplate
 
-Template for a client side rendered React application. It comes with Hapi as it's server, but the output can we used on static site hosts such as GitHub Pages or AWS S3.
+Template for a client side rendered React Redux application. It comes with Hapi as it's server, but the output can we used on static site hosts such as GitHub Pages or AWS S3.
 
 SCSS files are next to the componenets.
 Uses unpkg.com as CDN for React.
@@ -8,8 +8,8 @@ Uses unpkg.com as CDN for React.
 To serve from localhost:8000 via nodemon.
 
 ```
-git clone https://github.com/philals/react-redux-typescript-clientside-boilerplate.git
-cd react-redux-typescript-clientside-boilerplate
+git clone https://github.com/philals/react-redux-typescript-webpack-clientside-boilerplate.git
+cd react-redux-typescript-webpack-clientside-boilerplate
 npm install
 npm run build
 npm run serve-watch
